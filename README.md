@@ -4,6 +4,9 @@ Welcome to the homepage for AS212342 / Cryptid Networking.
 
 [PeeringDB](https://www.peeringdb.com/asn/212342)
 
+Ping/Traceroute `ix-vm.as212342.net` to find your route to us!
+
+Our AS runs on a VM from [iFog](https://ifog.ch)
 
 ## Who do we peer with?
 - AS207960 - [Homepage](https://as207960.net) - Over a local VLAN.
@@ -19,3 +22,6 @@ Welcome to the homepage for AS212342 / Cryptid Networking.
 - Z (Same contacts as Kit)
 - Q - [Site](https://magicalcodewit.ch/)
 - Bonzi - [Site](https://lordbonzi.pro/)
+
+## Want to peer?
+If you're at a IX we're at then feel free to send a formal email over to our NOC Contact Email [namedkitten+noc@gmail.com](mailto:namedkitten+noc@gmail.com)
