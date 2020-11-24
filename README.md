@@ -24,8 +24,7 @@ We use the IXP Access VM 1.
 ## Who Runs It?
 - Kitteh / purringChaos - [Site](https://kitteh.pw) - [Twitter](https://twitter.com/purringChaos)
 - Z (Same contacts as Kit)
-- Q - [Site](https://magicalcodewit.ch/)
-- Bonzi - [Site](https://lordbonzi.pro/)
+- [AS207960 Management Services](https://as207960.net) 
 
 ## Want to peer?
 If you're at a IX we're at then feel free to send a formal email over to our NOC Contact Email [namedkitten+noc@gmail.com](mailto:namedkitten%2Bnoc@gmail.com)
