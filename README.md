@@ -13,3 +13,9 @@ Welcome to the homepage for AS212342 / Cryptid Networking.
 ## What IXes are we at?
 - LocIX Frankfurt - 1G - [PeeringDB](https://www.peeringdb.com/ix/2084)
 - KleyReX - 100M - [PeeringDB](https://www.peeringdb.com/ix/123)
+
+## Who Runs It?
+- Kitteh / purringChaos - [Site](https://kitteh.pw) - [Twitter](https://twitter.com/purringChaos)
+- Z (Same contacts as Kit)
+- Q - [Site](https://magicalcodewit.ch/)
+- Bonzi - [Site](https://lordbonzi.pro/)
