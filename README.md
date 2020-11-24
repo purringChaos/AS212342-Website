@@ -24,4 +24,4 @@ Our AS runs on a VM from [iFog](https://ifog.ch)
 - Bonzi - [Site](https://lordbonzi.pro/)
 
 ## Want to peer?
-If you're at a IX we're at then feel free to send a formal email over to our NOC Contact Email [namedkitten+noc@gmail.com](mailto:namedkitten+noc@gmail.com)
+If you're at a IX we're at then feel free to send a formal email over to our NOC Contact Email [namedkitten+noc@gmail.com](mailto:namedkitten%2Bnoc@gmail.com)
