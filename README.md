@@ -6,7 +6,11 @@ Welcome to the homepage for AS212342 / Cryptid Networking.
 
 Ping/Traceroute `ix-vm.as212342.net` to find your route to us!
 
-Our AS runs on a VM from [iFog](https://ifog.ch)
+Our AS runs on a IXP VM from [iFog](https://ifog.ch)
+
+If you could use our affiliate link to order that would be great to help fund this. 
+[Affiliate Link](https://my.ifog.ch/order/forms/a/MTYz)
+We use the IXP Access VM 1.
 
 ## Who do we peer with?
 - AS207960 - [Homepage](https://as207960.net) - Over a local VLAN.
