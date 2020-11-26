@@ -16,6 +16,7 @@ We use the IXP Access VM 1.
 - AS207960 - [Homepage](https://as207960.net) - Over a local VLAN.
 - Hurricane Electric - [Homepage](https://he.net) - Over LocIX FRA and KleyReX.
 - Raphael Peters - [PeeringDB](https://as207968.peeringdb.com) - Over LocIX FRA.
+- linuxgemini - [Homepage](https://linuxgemini.space) - Over a local link.
 
 ## What IXes are we at?
 - LocIX Frankfurt - 1G - [PeeringDB](https://www.peeringdb.com/ix/2084)
