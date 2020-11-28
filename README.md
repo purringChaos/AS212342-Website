@@ -13,10 +13,11 @@ If you could use our affiliate link to order that would be great to help fund th
 We use the IXP Access VM 1.
 
 ## Who do we peer with?
-- AS207960 - [Homepage](https://as207960.net) - Over a local VLAN.
-- Hurricane Electric - [Homepage](https://he.net) - Over LocIX FRA and KleyReX.
-- Raphael Peters - [PeeringDB](https://as207968.peeringdb.com) - Over LocIX FRA.
-- linuxgemini - [Homepage](https://linuxgemini.space) - Over a local link.
+- AS207960 - Peering Only - [Homepage](https://as207960.net) - Over a local VLAN.
+- Hurricane Electric - Peering and Transit - [Homepage](https://he.net) - Over LocIX FRA and KleyReX.
+- Raphael Peters - Peering and Transit - [PeeringDB](https://as207968.peeringdb.com) - Over LocIX FRA.
+- linuxgemini - Peering Only - [Homepage](https://linuxgemini.space) - Over a local link.
+- Staclar Carrier - Peering and Transit - [Homepage](https://staclar.com)
 
 ## What IXes are we at?
 - LocIX Frankfurt - 1G - [PeeringDB](https://www.peeringdb.com/ix/2084)
