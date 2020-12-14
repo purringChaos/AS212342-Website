@@ -4,7 +4,9 @@ Welcome to the homepage for AS212342 / Cryptid Networking.
 
 [PeeringDB](https://www.peeringdb.com/asn/212342)
 
-Ping/Traceroute `ix-vm.as212342.net` to find your route to us!
+[Our discord server!](https://discord.gg/adcX6uNEVG)
+
+Ping/Traceroute `ix-vm.as212342.net` to find your route to us! (v6 only rn)
 
 Our AS runs on a IXP VM from [iFog](https://ifog.ch)
 
