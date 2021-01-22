@@ -28,7 +28,6 @@ We use the IXP Access VM 1.
 
 ## Who Runs It?
 - Kitteh / purringChaos - [Site](https://kitteh.pw) - [Twitter](https://twitter.com/purringChaos)
-- Z (Same contacts as Kit)
 - [AS207960 Management Services](https://as207960.net) 
 
 ## Want to peer?
