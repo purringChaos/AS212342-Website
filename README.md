@@ -5,6 +5,8 @@ Welcome to the homepage for AS212342 / Cryptid Networking.
 [PeeringDB](https://www.peeringdb.com/asn/212342)
 
 [Our discord server!](https://discord.gg/adcX6uNEVG)
+[Our telegram group!](https://t.me/as212342)
+
 
 Ping/Traceroute `ix-vm.as212342.net` to find your route to us! (v6 only rn)
 
