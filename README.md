@@ -20,6 +20,7 @@ We use the IXP Access VM 1.
 - linuxgemini - Peering Only - [Homepage](https://linuxgemini.space) - Over a local link.
 - Staclar Carrier - Peering and Transit - [Homepage](https://staclar.com)
 - Nato Internet Service - Peering and Transit - [Homepage](https://internet.nat.moe)
+- James Ledger Network - Peering Only - [Homepage](https://5v.vc) - Over LocIX FRA.
 
 ## What IXes are we at?
 - LocIX Frankfurt - 1G - [PeeringDB](https://www.peeringdb.com/ix/2084)
